@@ -9,5 +9,5 @@ async def root():
 
 @app.get("/about")
 def about():
-     return {'data':{'name':"parul singsdfsdfh"}}
+     return {'data':{'name':"parul test"}}
 
